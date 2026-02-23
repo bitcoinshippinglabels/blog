@@ -1,0 +1,7 @@
+title: Bitcoin Shipping Labels Blog
+description: Crypto shipping news and guides
+url: "https://bitcoinshippinglabels.github.io"
+baseurl: "/blog"
+markdown: kramdown
+theme: minima
+permalink: /:year/:month/:day/:title/
