@@ -31,7 +31,7 @@ An address-verification success alone doesn't prove every customer-entered detai
 
 ## Check the label before drop-off
 
-If the unit is missing, pause and request a correction before using that label. Keep the order ID handy so support can locate the purchase. For postal addressing guidance, consult [USPS Postal Explorer](https://pe.usps.com/).
+If the unit is missing, pause and request a correction before using that label. Keep the order ID handy so support can locate the purchase.
 
 You can [buy shipping labels with Bitcoin](https://www.bitcoinshippinglabels.com/shipping), check the [Bitcoin shipping labels FAQ](https://www.bitcoinshippinglabels.com/faq), or [recover your shipping order](https://www.bitcoinshippinglabels.com/recover-order) when you need your existing label. Open the PDF, check the full address, then print.
 
