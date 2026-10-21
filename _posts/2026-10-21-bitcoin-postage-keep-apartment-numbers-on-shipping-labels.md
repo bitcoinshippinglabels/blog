@@ -11,9 +11,9 @@ A shipping label can have the right street and still miss the apartment. When yo
 
 ## Apartment numbers deserve their own check
 
-USPS lists **APT** and **STE** as recognized secondary unit designators in [Publication 28, section 213](https://pe.usps.com/text/pub28/28c2_003.htm). Keep the complete unit number with the designator: `APT 1201-B`, for example, or `STE 900`.
+Keep the complete unit number with its apartment or suite designator: `APT 1201-B`, for example, or `STE 900`. Confirm the exact address with the recipient before purchasing.
 
-The letter matters. Apartment 1201 and apartment 1201-B may be different destinations. USPS also allows a hyphen in a secondary address number when it is significant; see [Publication 28, section 354](https://pe.usps.com/text/pub28/28c3_020.htm). Don't remove part of an apartment number just to make the address look tidier.
+The letter matters. Apartment 1201 and apartment 1201-B may be different destinations. Don't remove part of an apartment number just to make the address look tidier.
 
 ## A forwarding code needs the recipient's instructions
 
@@ -31,7 +31,7 @@ An address-verification success alone doesn't prove every customer-entered detai
 
 ## Check the label before drop-off
 
-If the unit is missing, pause and request a correction before using that label. Keep the order ID handy so support can locate the purchase.
+If the unit is missing, pause and request a correction before using that label. Keep the order ID handy so support can locate the purchase. For postal addressing guidance, consult [USPS Postal Explorer](https://pe.usps.com/).
 
 You can [buy shipping labels with Bitcoin](https://www.bitcoinshippinglabels.com/shipping), check the [Bitcoin shipping labels FAQ](https://www.bitcoinshippinglabels.com/faq), or [recover your shipping order](https://www.bitcoinshippinglabels.com/recover-order) when you need your existing label. Open the PDF, check the full address, then print.
 
