@@ -6,3 +6,7 @@ markdown: kramdown
 theme: minima
 permalink: /:year/:month/:day/:title/
 future: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
