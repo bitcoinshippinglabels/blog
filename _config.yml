@@ -10,3 +10,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+webmaster_verifications:
+  google: 9KhJcHXnyrONJGfsHjDXmtgN_PWafTT0vUFGRUEr-n8
